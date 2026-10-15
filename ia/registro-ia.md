@@ -1,3 +1,3 @@
 # ia/registro-ia.md
 | Fecha | Herramienta | Parte / tarea | Propósito | Qué verificó, adaptó o descartó el grupo |
-| --- | --- | --- | --- | --- |
+| 2026-10-15 | Claude (Anthropic) | Parte 1 / Ejercicio 1, repositorio | Guía para crear la estructura de carpetas, .gitkeep, README, .gitignore y archivos de seguimiento en PowerShell; ayuda para entender el error de sintaxis | Se verificó cada comando en la terminal; se adaptó la sintaxis de Bash a PowerShell; se creó el contenido de los archivos en VS Code y se revisó antes de subirlo |

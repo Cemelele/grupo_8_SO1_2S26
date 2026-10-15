@@ -1,3 +1,4 @@
 # ia/registro-ia.md
 | Fecha | Herramienta | Parte / tarea | Propósito | Qué verificó, adaptó o descartó el grupo |
 | 2026-10-15 | Claude (Anthropic) | Parte 1 / Ejercicio 1, repositorio | Guía para crear la estructura de carpetas, .gitkeep, README, .gitignore y archivos de seguimiento en PowerShell; ayuda para entender el error de sintaxis | Se verificó cada comando en la terminal; se adaptó la sintaxis de Bash a PowerShell; se creó el contenido de los archivos en VS Code y se revisó antes de subirlo |
+| 2026-10-15 | Claude (Anthropic) | Parte 1 / Ejercicio 1, versión del libro y erratas | Ayuda para identificar la versión estable de LFS (13.1-systemd) y entender qué son las erratas y los avisos de seguridad | Se verificó la versión y las erratas directamente en linuxfromscratch.org; se descartó usar el libro de desarrollo (r13.1-24) porque no es la versión estable |

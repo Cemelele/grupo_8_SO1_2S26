@@ -1,0 +1,28 @@
+# Fuentes y paquetes
+*.tar
+*.tar.gz
+*.tgz
+*.tar.xz
+*.tar.bz2
+*.zip
+sources/
+
+# Imágenes de disco y VM
+*.iso
+*.img
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.qcow2
+*.ova
+
+# Credenciales y claves
+.env
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*credenciales*
+*password*
+*.secret

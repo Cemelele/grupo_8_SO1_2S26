@@ -5,4 +5,4 @@
 - Amir Dujak
 
 ## Versión del libro LFS
-(completar: versión estable, edición systemd)
+LFS 13.1-systemd (estable, publicada el 2026-09-01)
